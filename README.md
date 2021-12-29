@@ -55,3 +55,6 @@ GoRmi.exe --ip 127.0.0.1 --port 9001 --payload urldns  --cmd "http://wb72qk.dnsl
 因为自己不擅长go语言，所以参考了大哥4ra1n的[Gososerial](https://github.com/EmYiQing/Gososerial)项目，并且在atao大哥的帮助下完成了该项目。
 
 可能你感觉代码写的非常垃圾，确实是这样的，不过还是希望帮助到你。
+
+## 最后
+如果感觉不错，希望给出你宝贵的star。
