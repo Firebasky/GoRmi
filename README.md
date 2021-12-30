@@ -30,6 +30,7 @@ MultiplexProtocol:
 server--->client
 	4e00093132372e302e302e310000xxxx  随机 为客户端的随机port
 	length:16
+	4e 长度 服务端的主机名 随机port
 	
 client--->server
 	000b 31302e32332e37312e3334 00000000      11	
