@@ -37,6 +37,10 @@ client--->server
 	前面2个字节是后面ip的长度16进置
 	xx ip xxxx
 	length:17
+Server -> Client
+空
+
+client--->server
 (yso中带的)
 50aced00057722000000000000000000000000000000000000000000000000000144154dc9d4e63bdf
 length:41
