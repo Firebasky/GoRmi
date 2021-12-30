@@ -12,6 +12,21 @@
 client--->server
     4a524d4900024b
     length:7
+Header:
+    0x4a 0x52 0x4d 0x49 Version Protocol
+Version:
+    0x00 0x01
+Protocol:
+    StreamProtocol
+    SingleOpProtocol
+    MultiplexProtocol
+StreamProtocol:
+    0x4b
+SingleOpProtocol:
+    0x4c
+MultiplexProtocol:
+    0x4d
+    
 server--->client
 	4e00093132372e302e302e310000xxxx  随机 为客户端的随机port
 	length:16
